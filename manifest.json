@@ -1,0 +1,10 @@
+{
+  "name": "LMP APPLICATION",
+  "short_name": "LMP",
+  "description": "Application officielle de la LMP.",
+  "start_url": "/LMP-APPLICATION/",
+  "scope": "/LMP-APPLICATION/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
